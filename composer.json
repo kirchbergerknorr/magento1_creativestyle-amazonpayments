@@ -1,0 +1,16 @@
+{
+    "name": "kirchbergerknorr/magento1_creativestyle_amazonpayments",
+    "type": "magento-module",
+    "license": "Apache OSL-2",
+    "homepage": "https://www.magentocommerce.com/magento-connect/amazon-pay-and-login-with-amazon-for-europe.html",
+    "description": "Amazon Payments for Magento Plugin",
+    "authors": [
+        {
+            "name": "Creativestyle",
+            "email":"n/a"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
